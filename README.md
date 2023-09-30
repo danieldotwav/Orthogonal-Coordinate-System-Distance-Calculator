@@ -3,9 +3,13 @@ This C++ program calculates the distance between two points represented by their
 
 ## **Features**
 -Point Class: Define points with x and y coordinates.
+
 -Distance Calculation: Calculate the distance between two points using the Cartesian distance formula.
+
 -Operator Overloading: Overload operators for addition and equality to simplify point operations.
+
 -User Interaction: Input and display point coordinates interactively.
+
 -Repeatable: Run the program multiple times to calculate distances for different points.
 
 ## **How to Use**
