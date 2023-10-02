@@ -1,5 +1,5 @@
 # Orthogonal-Coordinate-System-Distance-Calculator
-This C++ program calculates the distance between two points represented by their coordinates in a Cartesian plane. It demonstrates operator overloading for addition and equality, allowing you to perform point operations seamlessly.
+This C++ program calculates the distance between two points represented by their coordinates in a Cartesian plane.
 
 ## **Features**
 -Point Class: Define points with x and y coordinates.
